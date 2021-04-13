@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AOP-Part2-Chapter3</string>
+    <string name="title_text">Secret Diary</string>
+    <string name="UnLockBtn_text">UNLOCK</string>
+    <string name="ChangeBtn_text">CHANGE</string>
+    <string name="Save">SAVE</string>
+</resources>

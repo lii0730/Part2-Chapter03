@@ -1,0 +1,13 @@
+<Layout 그리기>
+ - Constraint layout 사용하기
+ - Custom Font 사용하기
+
+<SharedPreference 속성과 사용법>
+<Handler 사용하기>
+<Theme 사용하기>
+<AlertDialog 사용하기>
+
+비밀 다이어리 요구사항
+1. 다이어리 처럼 UI 꾸미기
+2. 비밀번호 저장, 변경 기능
+3. 다이어리 내용을 앱이 종료되더라도 기기에 저장하는 기능
